@@ -11,8 +11,8 @@ Once you’re on your fork, you can experiment however you like with it, play wi
 [branches](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/),
 [issues](https://help.github.com/articles/about-issues),
 [milestones](https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests/),
-labels(https://help.github.com/articles/applying-lables-to-issues-and-pull-requests/),
-the wiki(https://help.github.com/articles/about-github-wikis/), and more.
+[labels](https://help.github.com/articles/applying-lables-to-issues-and-pull-requests/),
+[the wiki](https://help.github.com/articles/about-github-wikis/), and more.
 
 ## What’s in there?
 
